@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AbortThreads\bin\Debug\AbortThreads.exe.config
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AbortThreads\bin\Debug\AbortThreads.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AbortThreads\bin\Debug\AbortThreads.pdb
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AbortThreads\obj\Debug\AbortThreads.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AbortThreads\obj\Debug\AbortThreads.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AbortThreads\obj\Debug\AbortThreads.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AbortThreads\obj\Debug\AbortThreads.pdb

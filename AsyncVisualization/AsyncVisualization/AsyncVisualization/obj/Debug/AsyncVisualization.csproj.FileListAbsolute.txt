@@ -1,0 +1,10 @@
+C:\Users\Anastasiia\Desktop\AsyncVisualization\AsyncVisualization\bin\Debug\AsyncVisualization.exe.config
+C:\Users\Anastasiia\Desktop\AsyncVisualization\AsyncVisualization\bin\Debug\AsyncVisualization.exe
+C:\Users\Anastasiia\Desktop\AsyncVisualization\AsyncVisualization\bin\Debug\AsyncVisualization.pdb
+C:\Users\Anastasiia\Desktop\AsyncVisualization\AsyncVisualization\obj\Debug\AsyncVisualization.csproj.AssemblyReference.cache
+C:\Users\Anastasiia\Desktop\AsyncVisualization\AsyncVisualization\obj\Debug\AsyncVisualization.Form1.resources
+C:\Users\Anastasiia\Desktop\AsyncVisualization\AsyncVisualization\obj\Debug\AsyncVisualization.Properties.Resources.resources
+C:\Users\Anastasiia\Desktop\AsyncVisualization\AsyncVisualization\obj\Debug\AsyncVisualization.csproj.GenerateResource.cache
+C:\Users\Anastasiia\Desktop\AsyncVisualization\AsyncVisualization\obj\Debug\AsyncVisualization.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia\Desktop\AsyncVisualization\AsyncVisualization\obj\Debug\AsyncVisualization.exe
+C:\Users\Anastasiia\Desktop\AsyncVisualization\AsyncVisualization\obj\Debug\AsyncVisualization.pdb

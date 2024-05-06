@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\System Programming\SyncThreads\BankingDemo\bin\Debug\BankingDemo.exe.config
+C:\Users\solod\IT\Step\System Programming\SyncThreads\BankingDemo\bin\Debug\BankingDemo.exe
+C:\Users\solod\IT\Step\System Programming\SyncThreads\BankingDemo\bin\Debug\BankingDemo.pdb
+C:\Users\solod\IT\Step\System Programming\SyncThreads\BankingDemo\obj\Debug\BankingDemo.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System Programming\SyncThreads\BankingDemo\obj\Debug\BankingDemo.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System Programming\SyncThreads\BankingDemo\obj\Debug\BankingDemo.exe
+C:\Users\solod\IT\Step\System Programming\SyncThreads\BankingDemo\obj\Debug\BankingDemo.pdb

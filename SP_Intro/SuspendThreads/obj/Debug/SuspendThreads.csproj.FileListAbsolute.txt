@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\System Programming\SP_Intro\SuspendThreads\bin\Debug\SuspendThreads.exe.config
+C:\Users\solod\IT\Step\System Programming\SP_Intro\SuspendThreads\bin\Debug\SuspendThreads.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\SuspendThreads\bin\Debug\SuspendThreads.pdb
+C:\Users\solod\IT\Step\System Programming\SP_Intro\SuspendThreads\obj\Debug\SuspendThreads.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\SuspendThreads\obj\Debug\SuspendThreads.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\SuspendThreads\obj\Debug\SuspendThreads.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\SuspendThreads\obj\Debug\SuspendThreads.pdb

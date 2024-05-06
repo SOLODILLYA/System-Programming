@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\System Programming\SP_Intro\JoinThreads\bin\Debug\JoinThreads.exe.config
+C:\Users\solod\IT\Step\System Programming\SP_Intro\JoinThreads\bin\Debug\JoinThreads.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\JoinThreads\bin\Debug\JoinThreads.pdb
+C:\Users\solod\IT\Step\System Programming\SP_Intro\JoinThreads\obj\Debug\JoinThreads.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\JoinThreads\obj\Debug\JoinThreads.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\JoinThreads\obj\Debug\JoinThreads.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\JoinThreads\obj\Debug\JoinThreads.pdb

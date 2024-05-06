@@ -1,0 +1,7 @@
+C:\Users\Anastasiia\Desktop\Cancellation\CancellationIntro\bin\Debug\CancellationIntro.exe.config
+C:\Users\Anastasiia\Desktop\Cancellation\CancellationIntro\bin\Debug\CancellationIntro.exe
+C:\Users\Anastasiia\Desktop\Cancellation\CancellationIntro\bin\Debug\CancellationIntro.pdb
+C:\Users\Anastasiia\Desktop\Cancellation\CancellationIntro\obj\Debug\CancellationIntro.csproj.AssemblyReference.cache
+C:\Users\Anastasiia\Desktop\Cancellation\CancellationIntro\obj\Debug\CancellationIntro.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia\Desktop\Cancellation\CancellationIntro\obj\Debug\CancellationIntro.exe
+C:\Users\Anastasiia\Desktop\Cancellation\CancellationIntro\obj\Debug\CancellationIntro.pdb

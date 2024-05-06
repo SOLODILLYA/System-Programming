@@ -1,0 +1,7 @@
+C:\Users\Anastasiia\Desktop\PrallelDemo\invokeMethod\bin\Debug\invokeMethod.exe.config
+C:\Users\Anastasiia\Desktop\PrallelDemo\invokeMethod\bin\Debug\invokeMethod.exe
+C:\Users\Anastasiia\Desktop\PrallelDemo\invokeMethod\bin\Debug\invokeMethod.pdb
+C:\Users\Anastasiia\Desktop\PrallelDemo\invokeMethod\obj\Debug\invokeMethod.csproj.AssemblyReference.cache
+C:\Users\Anastasiia\Desktop\PrallelDemo\invokeMethod\obj\Debug\invokeMethod.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia\Desktop\PrallelDemo\invokeMethod\obj\Debug\invokeMethod.exe
+C:\Users\Anastasiia\Desktop\PrallelDemo\invokeMethod\obj\Debug\invokeMethod.pdb

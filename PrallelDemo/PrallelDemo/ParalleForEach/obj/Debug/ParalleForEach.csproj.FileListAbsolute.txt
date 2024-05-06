@@ -1,0 +1,10 @@
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParalleForEach\bin\Debug\ParalleForEach.exe.config
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParalleForEach\bin\Debug\ParalleForEach.exe
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParalleForEach\bin\Debug\ParalleForEach.pdb
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParalleForEach\bin\Debug\CalcLib.dll
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParalleForEach\bin\Debug\CalcLib.pdb
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParalleForEach\obj\Debug\ParalleForEach.csproj.AssemblyReference.cache
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParalleForEach\obj\Debug\ParalleForEach.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParalleForEach\obj\Debug\ParalleF.8E2C7620.Up2Date
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParalleForEach\obj\Debug\ParalleForEach.exe
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParalleForEach\obj\Debug\ParalleForEach.pdb

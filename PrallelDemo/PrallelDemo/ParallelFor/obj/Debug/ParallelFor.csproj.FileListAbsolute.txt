@@ -1,0 +1,10 @@
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParallelFor\bin\Debug\ParallelFor.exe.config
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParallelFor\bin\Debug\ParallelFor.exe
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParallelFor\bin\Debug\ParallelFor.pdb
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParallelFor\bin\Debug\CalcLib.dll
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParallelFor\bin\Debug\CalcLib.pdb
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParallelFor\obj\Debug\ParallelFor.csproj.AssemblyReference.cache
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParallelFor\obj\Debug\ParallelFor.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParallelFor\obj\Debug\Parallel.BBF90C49.Up2Date
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParallelFor\obj\Debug\ParallelFor.exe
+C:\Users\Anastasiia\Desktop\PrallelDemo\ParallelFor\obj\Debug\ParallelFor.pdb

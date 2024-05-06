@@ -1,0 +1,7 @@
+C:\Users\Anastasiia\Desktop\Cancellation\PointersDemo\bin\Debug\PointersDemo.exe.config
+C:\Users\Anastasiia\Desktop\Cancellation\PointersDemo\bin\Debug\PointersDemo.exe
+C:\Users\Anastasiia\Desktop\Cancellation\PointersDemo\bin\Debug\PointersDemo.pdb
+C:\Users\Anastasiia\Desktop\Cancellation\PointersDemo\obj\Debug\PointersDemo.csproj.AssemblyReference.cache
+C:\Users\Anastasiia\Desktop\Cancellation\PointersDemo\obj\Debug\PointersDemo.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia\Desktop\Cancellation\PointersDemo\obj\Debug\PointersDemo.exe
+C:\Users\Anastasiia\Desktop\Cancellation\PointersDemo\obj\Debug\PointersDemo.pdb

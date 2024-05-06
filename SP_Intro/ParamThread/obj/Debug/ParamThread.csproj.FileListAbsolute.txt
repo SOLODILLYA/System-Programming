@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ParamThread\bin\Debug\ParamThread.exe.config
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ParamThread\bin\Debug\ParamThread.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ParamThread\bin\Debug\ParamThread.pdb
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ParamThread\obj\Debug\ParamThread.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ParamThread\obj\Debug\ParamThread.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ParamThread\obj\Debug\ParamThread.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ParamThread\obj\Debug\ParamThread.pdb

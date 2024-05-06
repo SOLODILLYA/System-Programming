@@ -1,0 +1,7 @@
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\Factorial\bin\Debug\Factorial.exe
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\Factorial\obj\Debug\Factorial.csproj.AssemblyReference.cache
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\Factorial\obj\Debug\Factorial.exe
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\Factorial\obj\Debug\Factorial.pdb

@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{333CDD4D-A8AC-48D3-A502-07A8494DA2FB}|ThreadsDemo\\ThreadsDemo.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\threadsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333CDD4D-A8AC-48D3-A502-07A8494DA2FB}|ThreadsDemo\\ThreadsDemo.csproj|solutionrelative:threadsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BB1B4D-BD6F-40C8-A079-6E581CD4CC6B}|JoinThreads\\JoinThreads.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\jointhreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19BB1B4D-BD6F-40C8-A079-6E581CD4CC6B}|JoinThreads\\JoinThreads.csproj|solutionrelative:jointhreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9E9A23-8CF5-4818-96C8-2E5D043F45A9}|AbortThreads\\AbortThreads.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\abortthreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9E9A23-8CF5-4818-96C8-2E5D043F45A9}|AbortThreads\\AbortThreads.csproj|solutionrelative:abortthreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E271836-897B-40A5-8E74-17F4E931B69E}|QuadraticEquetionsThreads\\QuadraticEquetionsThreads.csproj|c:\\users\\solod\\it\\step\\system programming\\sp_intro\\quadraticequetionsthreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E271836-897B-40A5-8E74-17F4E931B69E}|QuadraticEquetionsThreads\\QuadraticEquetionsThreads.csproj|solutionrelative:quadraticequetionsthreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E271836-897B-40A5-8E74-17F4E931B69E}|QuadraticEquetionsThreads\\QuadraticEquetionsThreads.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\quadraticequetionsthreads\\datastruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E271836-897B-40A5-8E74-17F4E931B69E}|QuadraticEquetionsThreads\\QuadraticEquetionsThreads.csproj|solutionrelative:quadraticequetionsthreads\\datastruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E6CC78-375E-4F00-8F97-9A44ABA8AB21}|ParamThread\\ParamThread.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\paramthread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E6CC78-375E-4F00-8F97-9A44ABA8AB21}|ParamThread\\ParamThread.csproj|solutionrelative:paramthread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C55F6-2C3F-4462-8242-FE280A7F023E}|SuspendThreads\\SuspendThreads.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\suspendthreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C55F6-2C3F-4462-8242-FE280A7F023E}|SuspendThreads\\SuspendThreads.csproj|solutionrelative:suspendthreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A7F1CA-5246-4FE2-8CDB-D1CDFD80EDBB}|ProcessesScanner\\ProcessesScanner.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\processesscanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A7F1CA-5246-4FE2-8CDB-D1CDFD80EDBB}|ProcessesScanner\\ProcessesScanner.csproj|solutionrelative:processesscanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E6CC78-375E-4F00-8F97-9A44ABA8AB21}|ParamThread\\ParamThread.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\paramthread\\datastruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E6CC78-375E-4F00-8F97-9A44ABA8AB21}|ParamThread\\ParamThread.csproj|solutionrelative:paramthread\\datastruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\apprunner1\\addpathform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|solutionrelative:apprunner1\\addpathform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\apprunner1\\addpathform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|solutionrelative:apprunner1\\addpathform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\apprunner1\\deleteapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|solutionrelative:apprunner1\\deleteapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\apprunner1\\deleteapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|solutionrelative:apprunner1\\deleteapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\apprunner1\\editapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|solutionrelative:apprunner1\\editapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\apprunner1\\editapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|solutionrelative:apprunner1\\editapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\apprunner1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|solutionrelative:apprunner1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\apprunner1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47FB9A1D-B31F-4443-BA52-B1222414D2B9}|AppRunner1\\AppRunner1.csproj|solutionrelative:apprunner1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1442,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataStruct.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\QuadraticEquetionsThreads\\DataStruct.cs",
+              "RelativeDocumentMoniker": "QuadraticEquetionsThreads\\DataStruct.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\QuadraticEquetionsThreads\\DataStruct.cs",
+              "RelativeToolTip": "QuadraticEquetionsThreads\\DataStruct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:22:14.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\QuadraticEquetionsThreads\\Program.cs",
+              "RelativeDocumentMoniker": "QuadraticEquetionsThreads\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\QuadraticEquetionsThreads\\Program.cs",
+              "RelativeToolTip": "QuadraticEquetionsThreads\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:21:39.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AbortThreads\\Program.cs",
+              "RelativeDocumentMoniker": "AbortThreads\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AbortThreads\\Program.cs",
+              "RelativeToolTip": "AbortThreads\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:16:53.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\SuspendThreads\\Program.cs",
+              "RelativeDocumentMoniker": "SuspendThreads\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\SuspendThreads\\Program.cs",
+              "RelativeToolTip": "SuspendThreads\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:58:18.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataStruct.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\ParamThread\\DataStruct.cs",
+              "RelativeDocumentMoniker": "ParamThread\\DataStruct.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\ParamThread\\DataStruct.cs",
+              "RelativeToolTip": "ParamThread\\DataStruct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:45:21.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\ParamThread\\Program.cs",
+              "RelativeDocumentMoniker": "ParamThread\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\ParamThread\\Program.cs",
+              "RelativeToolTip": "ParamThread\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:30:16.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\JoinThreads\\Program.cs",
+              "RelativeDocumentMoniker": "JoinThreads\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\JoinThreads\\Program.cs",
+              "RelativeToolTip": "JoinThreads\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:12:53.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\ThreadsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadsDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\ThreadsDemo\\Program.cs",
+              "RelativeToolTip": "ThreadsDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:11:53.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddPathForm.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\AddPathForm.cs",
+              "RelativeDocumentMoniker": "AppRunner1\\AddPathForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\AddPathForm.cs",
+              "RelativeToolTip": "AppRunner1\\AddPathForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:07:43.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddPathForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\AddPathForm.cs",
+              "RelativeDocumentMoniker": "AppRunner1\\AddPathForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\AddPathForm.cs [Design]",
+              "RelativeToolTip": "AppRunner1\\AddPathForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:07:20.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteApplicationForm.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\DeleteApplicationForm.cs",
+              "RelativeDocumentMoniker": "AppRunner1\\DeleteApplicationForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\DeleteApplicationForm.cs",
+              "RelativeToolTip": "AppRunner1\\DeleteApplicationForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:01:40.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteApplicationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\DeleteApplicationForm.cs",
+              "RelativeDocumentMoniker": "AppRunner1\\DeleteApplicationForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\DeleteApplicationForm.cs [Design]",
+              "RelativeToolTip": "AppRunner1\\DeleteApplicationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:01:05.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditApplicationForm.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\EditApplicationForm.cs",
+              "RelativeDocumentMoniker": "AppRunner1\\EditApplicationForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\EditApplicationForm.cs",
+              "RelativeToolTip": "AppRunner1\\EditApplicationForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:52:02.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditApplicationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\EditApplicationForm.cs",
+              "RelativeDocumentMoniker": "AppRunner1\\EditApplicationForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\EditApplicationForm.cs [Design]",
+              "RelativeToolTip": "AppRunner1\\EditApplicationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:51:04.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\Form1.cs",
+              "RelativeDocumentMoniker": "AppRunner1\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\Form1.cs",
+              "RelativeToolTip": "AppRunner1\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:24:07.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\Form1.cs",
+              "RelativeDocumentMoniker": "AppRunner1\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\AppRunner1\\Form1.cs [Design]",
+              "RelativeToolTip": "AppRunner1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:23:47.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\ProcessesScanner\\Program.cs",
+              "RelativeDocumentMoniker": "ProcessesScanner\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SP_Intro\\ProcessesScanner\\Program.cs",
+              "RelativeToolTip": "ProcessesScanner\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:34:28.883Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

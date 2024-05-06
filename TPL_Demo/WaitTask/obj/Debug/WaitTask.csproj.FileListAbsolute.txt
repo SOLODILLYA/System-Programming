@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\WaitTask\bin\Debug\WaitTask.exe.config
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\WaitTask\bin\Debug\WaitTask.exe
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\WaitTask\bin\Debug\WaitTask.pdb
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\WaitTask\obj\Debug\WaitTask.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\WaitTask\obj\Debug\WaitTask.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\WaitTask\obj\Debug\WaitTask.exe
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\WaitTask\obj\Debug\WaitTask.pdb

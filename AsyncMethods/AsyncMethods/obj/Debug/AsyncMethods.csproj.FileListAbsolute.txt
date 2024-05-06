@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\System Programming\AsyncMethods\AsyncMethods\bin\Debug\AsyncMethods.exe.config
+C:\Users\solod\IT\Step\System Programming\AsyncMethods\AsyncMethods\bin\Debug\AsyncMethods.exe
+C:\Users\solod\IT\Step\System Programming\AsyncMethods\AsyncMethods\bin\Debug\AsyncMethods.pdb
+C:\Users\solod\IT\Step\System Programming\AsyncMethods\AsyncMethods\obj\Debug\AsyncMethods.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System Programming\AsyncMethods\AsyncMethods\obj\Debug\AsyncMethods.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System Programming\AsyncMethods\AsyncMethods\obj\Debug\AsyncMethods.exe
+C:\Users\solod\IT\Step\System Programming\AsyncMethods\AsyncMethods\obj\Debug\AsyncMethods.pdb

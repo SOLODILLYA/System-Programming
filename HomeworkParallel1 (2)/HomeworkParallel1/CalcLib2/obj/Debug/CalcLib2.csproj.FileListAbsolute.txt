@@ -1,0 +1,6 @@
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\CalcLib2\bin\Debug\CalcLib2.dll
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\CalcLib2\bin\Debug\CalcLib2.pdb
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\CalcLib2\obj\Debug\CalcLib2.csproj.AssemblyReference.cache
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\CalcLib2\obj\Debug\CalcLib2.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\CalcLib2\obj\Debug\CalcLib2.dll
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\CalcLib2\obj\Debug\CalcLib2.pdb

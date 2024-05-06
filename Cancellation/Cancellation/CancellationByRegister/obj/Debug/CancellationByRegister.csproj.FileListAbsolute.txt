@@ -1,0 +1,7 @@
+C:\Users\Anastasiia\Desktop\Cancellation\CancellationByRegister\bin\Debug\CancellationByRegister.exe.config
+C:\Users\Anastasiia\Desktop\Cancellation\CancellationByRegister\bin\Debug\CancellationByRegister.exe
+C:\Users\Anastasiia\Desktop\Cancellation\CancellationByRegister\bin\Debug\CancellationByRegister.pdb
+C:\Users\Anastasiia\Desktop\Cancellation\CancellationByRegister\obj\Debug\CancellationByRegister.csproj.AssemblyReference.cache
+C:\Users\Anastasiia\Desktop\Cancellation\CancellationByRegister\obj\Debug\CancellationByRegister.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia\Desktop\Cancellation\CancellationByRegister\obj\Debug\CancellationByRegister.exe
+C:\Users\Anastasiia\Desktop\Cancellation\CancellationByRegister\obj\Debug\CancellationByRegister.pdb

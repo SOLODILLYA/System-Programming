@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\TasksArray\bin\Debug\TasksArray.exe.config
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\TasksArray\bin\Debug\TasksArray.exe
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\TasksArray\bin\Debug\TasksArray.pdb
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\TasksArray\obj\Debug\TasksArray.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\TasksArray\obj\Debug\TasksArray.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\TasksArray\obj\Debug\TasksArray.exe
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\TasksArray\obj\Debug\TasksArray.pdb

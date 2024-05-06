@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ThreadsDemo\bin\Debug\ThreadsDemo.exe.config
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ThreadsDemo\bin\Debug\ThreadsDemo.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ThreadsDemo\bin\Debug\ThreadsDemo.pdb
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ThreadsDemo\obj\Debug\ThreadsDemo.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ThreadsDemo\obj\Debug\ThreadsDemo.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ThreadsDemo\obj\Debug\ThreadsDemo.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ThreadsDemo\obj\Debug\ThreadsDemo.pdb

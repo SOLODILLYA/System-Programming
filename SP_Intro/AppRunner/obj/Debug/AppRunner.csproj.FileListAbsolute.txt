@@ -1,0 +1,9 @@
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AppRunner\bin\Debug\AppRunner.exe.config
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AppRunner\bin\Debug\AppRunner.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AppRunner\bin\Debug\AppRunner.pdb
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AppRunner\obj\Debug\AppRunner.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AppRunner\obj\Debug\AppRunner.AppRunner.resources
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AppRunner\obj\Debug\AppRunner.csproj.GenerateResource.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AppRunner\obj\Debug\AppRunner.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AppRunner\obj\Debug\AppRunner.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\AppRunner\obj\Debug\AppRunner.pdb

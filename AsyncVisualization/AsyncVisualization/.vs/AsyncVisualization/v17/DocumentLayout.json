@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anastasiia\\Desktop\\AsyncVisualization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{205D9759-D870-4951-8708-4613CE3059E0}|AsyncVisualization\\AsyncVisualization.csproj|c:\\users\\anastasiia\\desktop\\asyncvisualization\\asyncvisualization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205D9759-D870-4951-8708-4613CE3059E0}|AsyncVisualization\\AsyncVisualization.csproj|solutionrelative:asyncvisualization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasiia\\Desktop\\AsyncVisualization\\AsyncVisualization\\Program.cs",
+              "RelativeDocumentMoniker": "AsyncVisualization\\Program.cs",
+              "ToolTip": "C:\\Users\\Anastasiia\\Desktop\\AsyncVisualization\\AsyncVisualization\\Program.cs",
+              "RelativeToolTip": "AsyncVisualization\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:09:46.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

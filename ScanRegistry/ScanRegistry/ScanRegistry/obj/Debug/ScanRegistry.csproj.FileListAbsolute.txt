@@ -1,0 +1,7 @@
+C:\Users\Anastasiia\Desktop\ScanRegistry\ScanRegistry\bin\Debug\ScanRegistry.exe.config
+C:\Users\Anastasiia\Desktop\ScanRegistry\ScanRegistry\bin\Debug\ScanRegistry.exe
+C:\Users\Anastasiia\Desktop\ScanRegistry\ScanRegistry\bin\Debug\ScanRegistry.pdb
+C:\Users\Anastasiia\Desktop\ScanRegistry\ScanRegistry\obj\Debug\ScanRegistry.csproj.AssemblyReference.cache
+C:\Users\Anastasiia\Desktop\ScanRegistry\ScanRegistry\obj\Debug\ScanRegistry.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia\Desktop\ScanRegistry\ScanRegistry\obj\Debug\ScanRegistry.exe
+C:\Users\Anastasiia\Desktop\ScanRegistry\ScanRegistry\obj\Debug\ScanRegistry.pdb

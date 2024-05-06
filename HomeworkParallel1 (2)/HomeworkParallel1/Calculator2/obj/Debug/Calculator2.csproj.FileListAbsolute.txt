@@ -1,0 +1,6 @@
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\Calculator2\bin\Debug\Calculator2.dll
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\Calculator2\bin\Debug\Calculator2.pdb
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\Calculator2\obj\Debug\Calculator2.csproj.AssemblyReference.cache
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\Calculator2\obj\Debug\Calculator2.dll
+C:\Users\Anastasiia\Desktop\HomeworkParallel1\Calculator2\obj\Debug\Calculator2.pdb

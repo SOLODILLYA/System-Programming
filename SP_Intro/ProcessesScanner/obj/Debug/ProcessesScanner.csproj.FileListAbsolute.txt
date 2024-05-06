@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ProcessesScanner\bin\Debug\ProcessesScanner.exe.config
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ProcessesScanner\bin\Debug\ProcessesScanner.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ProcessesScanner\bin\Debug\ProcessesScanner.pdb
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ProcessesScanner\obj\Debug\ProcessesScanner.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ProcessesScanner\obj\Debug\ProcessesScanner.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ProcessesScanner\obj\Debug\ProcessesScanner.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\ProcessesScanner\obj\Debug\ProcessesScanner.pdb

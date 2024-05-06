@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\System Programming\SyncThreads\GoodBadSync\bin\Debug\GoodBadSync.exe.config
+C:\Users\solod\IT\Step\System Programming\SyncThreads\GoodBadSync\bin\Debug\GoodBadSync.exe
+C:\Users\solod\IT\Step\System Programming\SyncThreads\GoodBadSync\bin\Debug\GoodBadSync.pdb
+C:\Users\solod\IT\Step\System Programming\SyncThreads\GoodBadSync\obj\Debug\GoodBadSync.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System Programming\SyncThreads\GoodBadSync\obj\Debug\GoodBadSync.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System Programming\SyncThreads\GoodBadSync\obj\Debug\GoodBadSync.exe
+C:\Users\solod\IT\Step\System Programming\SyncThreads\GoodBadSync\obj\Debug\GoodBadSync.pdb

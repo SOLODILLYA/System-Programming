@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\System Programming\SP_Intro\QuadraticEquetionsThreads\bin\Debug\QuadraticEquetionsThreads.exe.config
+C:\Users\solod\IT\Step\System Programming\SP_Intro\QuadraticEquetionsThreads\bin\Debug\QuadraticEquetionsThreads.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\QuadraticEquetionsThreads\bin\Debug\QuadraticEquetionsThreads.pdb
+C:\Users\solod\IT\Step\System Programming\SP_Intro\QuadraticEquetionsThreads\obj\Debug\QuadraticEquetionsThreads.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\QuadraticEquetionsThreads\obj\Debug\QuadraticEquetionsThreads.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System Programming\SP_Intro\QuadraticEquetionsThreads\obj\Debug\QuadraticEquetionsThreads.exe
+C:\Users\solod\IT\Step\System Programming\SP_Intro\QuadraticEquetionsThreads\obj\Debug\QuadraticEquetionsThreads.pdb

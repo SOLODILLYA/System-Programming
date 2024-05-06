@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\ContinuationTasks\bin\Debug\ContinuationTasks.exe.config
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\ContinuationTasks\bin\Debug\ContinuationTasks.exe
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\ContinuationTasks\bin\Debug\ContinuationTasks.pdb
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\ContinuationTasks\obj\Debug\ContinuationTasks.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\ContinuationTasks\obj\Debug\ContinuationTasks.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\ContinuationTasks\obj\Debug\ContinuationTasks.exe
+C:\Users\solod\IT\Step\System Programming\TPL_Demo\ContinuationTasks\obj\Debug\ContinuationTasks.pdb
