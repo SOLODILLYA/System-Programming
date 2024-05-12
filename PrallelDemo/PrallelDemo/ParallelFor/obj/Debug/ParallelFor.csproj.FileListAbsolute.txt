@@ -8,3 +8,13 @@ C:\Users\Anastasiia\Desktop\PrallelDemo\ParallelFor\obj\Debug\ParallelFor.csproj
 C:\Users\Anastasiia\Desktop\PrallelDemo\ParallelFor\obj\Debug\Parallel.BBF90C49.Up2Date
 C:\Users\Anastasiia\Desktop\PrallelDemo\ParallelFor\obj\Debug\ParallelFor.exe
 C:\Users\Anastasiia\Desktop\PrallelDemo\ParallelFor\obj\Debug\ParallelFor.pdb
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\ParallelFor\bin\Debug\ParallelFor.exe.config
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\ParallelFor\bin\Debug\ParallelFor.exe
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\ParallelFor\bin\Debug\ParallelFor.pdb
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\ParallelFor\bin\Debug\CalcLib.dll
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\ParallelFor\bin\Debug\CalcLib.pdb
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\ParallelFor\obj\Debug\ParallelFor.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\ParallelFor\obj\Debug\ParallelFor.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\ParallelFor\obj\Debug\Parallel.BBF90C49.Up2Date
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\ParallelFor\obj\Debug\ParallelFor.exe
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\ParallelFor\obj\Debug\ParallelFor.pdb

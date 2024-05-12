@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Anastasiia\\Desktop\\AsyncVisualization\\",
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\AsyncVisualization\\AsyncVisualization\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{205D9759-D870-4951-8708-4613CE3059E0}|AsyncVisualization\\AsyncVisualization.csproj|c:\\users\\anastasiia\\desktop\\asyncvisualization\\asyncvisualization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{205D9759-D870-4951-8708-4613CE3059E0}|AsyncVisualization\\AsyncVisualization.csproj|c:\\users\\solod\\it\\step\\system-programming\\system-programming\\asyncvisualization\\asyncvisualization\\asyncvisualization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205D9759-D870-4951-8708-4613CE3059E0}|AsyncVisualization\\AsyncVisualization.csproj|solutionrelative:asyncvisualization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205D9759-D870-4951-8708-4613CE3059E0}|AsyncVisualization\\AsyncVisualization.csproj|c:\\users\\solod\\it\\step\\system-programming\\system-programming\\asyncvisualization\\asyncvisualization\\asyncvisualization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{205D9759-D870-4951-8708-4613CE3059E0}|AsyncVisualization\\AsyncVisualization.csproj|solutionrelative:asyncvisualization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205D9759-D870-4951-8708-4613CE3059E0}|AsyncVisualization\\AsyncVisualization.csproj|c:\\users\\solod\\it\\step\\system-programming\\system-programming\\asyncvisualization\\asyncvisualization\\asyncvisualization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{205D9759-D870-4951-8708-4613CE3059E0}|AsyncVisualization\\AsyncVisualization.csproj|solutionrelative:asyncvisualization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,10 +27,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\AsyncVisualization\\AsyncVisualization\\AsyncVisualization\\Form1.cs",
+              "RelativeDocumentMoniker": "AsyncVisualization\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\AsyncVisualization\\AsyncVisualization\\AsyncVisualization\\Form1.cs",
+              "RelativeToolTip": "AsyncVisualization\\Form1.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:34:50.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\AsyncVisualization\\AsyncVisualization\\AsyncVisualization\\Form1.cs",
+              "RelativeDocumentMoniker": "AsyncVisualization\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\AsyncVisualization\\AsyncVisualization\\AsyncVisualization\\Form1.cs [Design]",
+              "RelativeToolTip": "AsyncVisualization\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:34:47.937Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Anastasiia\\Desktop\\AsyncVisualization\\AsyncVisualization\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\AsyncVisualization\\AsyncVisualization\\AsyncVisualization\\Program.cs",
               "RelativeDocumentMoniker": "AsyncVisualization\\Program.cs",
-              "ToolTip": "C:\\Users\\Anastasiia\\Desktop\\AsyncVisualization\\AsyncVisualization\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\AsyncVisualization\\AsyncVisualization\\AsyncVisualization\\Program.cs",
               "RelativeToolTip": "AsyncVisualization\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

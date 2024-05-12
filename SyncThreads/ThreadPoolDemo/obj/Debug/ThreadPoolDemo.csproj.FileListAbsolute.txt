@@ -5,3 +5,10 @@ C:\Users\solod\IT\Step\System Programming\SyncThreads\ThreadPoolDemo\obj\Debug\T
 C:\Users\solod\IT\Step\System Programming\SyncThreads\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.csproj.CoreCompileInputs.cache
 C:\Users\solod\IT\Step\System Programming\SyncThreads\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.exe
 C:\Users\solod\IT\Step\System Programming\SyncThreads\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.pdb
+C:\Users\solod\IT\Step\System-Programming\System-Programming\SyncThreads\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe.config
+C:\Users\solod\IT\Step\System-Programming\System-Programming\SyncThreads\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe
+C:\Users\solod\IT\Step\System-Programming\System-Programming\SyncThreads\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.pdb
+C:\Users\solod\IT\Step\System-Programming\System-Programming\SyncThreads\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System-Programming\System-Programming\SyncThreads\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System-Programming\System-Programming\SyncThreads\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.exe
+C:\Users\solod\IT\Step\System-Programming\System-Programming\SyncThreads\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.pdb

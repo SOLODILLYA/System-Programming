@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|c:\\users\\solod\\it\\step\\system-programming\\studentmanager\\studentmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\studentmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\studentmanager\\editstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\editstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|c:\\users\\solod\\it\\step\\system-programming\\studentmanager\\studentmanager\\editgradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\editgradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\studentmanager\\editgradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\editgradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\studentmanager\\editattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\editattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\studentmanager\\editattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\editattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\studentmanager\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\studentmanager\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\studentmanager\\addgradeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\addgradeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\studentmanager\\addgradeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\addgradeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\studentmanager\\addattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\addattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\studentmanager\\addattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\addattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\studentmanager\\editstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD061CD-1BCA-4052-8BCE-530B46EF077B}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\editstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\AddAttendance.cs",
+              "RelativeDocumentMoniker": "StudentManager\\AddAttendance.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\AddAttendance.cs",
+              "RelativeToolTip": "StudentManager\\AddAttendance.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAArwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:41:38.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditStudentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\EditStudentsForm.cs",
+              "RelativeDocumentMoniker": "StudentManager\\EditStudentsForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\EditStudentsForm.cs",
+              "RelativeToolTip": "StudentManager\\EditStudentsForm.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAnwCIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:33:10.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditStudentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\EditStudentsForm.cs",
+              "RelativeDocumentMoniker": "StudentManager\\EditStudentsForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\EditStudentsForm.cs [Design]",
+              "RelativeToolTip": "StudentManager\\EditStudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:32:30.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddStudent.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\AddStudent.cs",
+              "RelativeDocumentMoniker": "StudentManager\\AddStudent.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\AddStudent.cs",
+              "RelativeToolTip": "StudentManager\\AddStudent.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:26:29.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\AddStudent.cs",
+              "RelativeDocumentMoniker": "StudentManager\\AddStudent.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\AddStudent.cs [Design]",
+              "RelativeToolTip": "StudentManager\\AddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:25:13.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditGradesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\EditGradesForm.cs",
+              "RelativeDocumentMoniker": "StudentManager\\EditGradesForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\EditGradesForm.cs [Design]",
+              "RelativeToolTip": "StudentManager\\EditGradesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:46:03.545Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditAttendanceForm.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\EditAttendanceForm.cs",
+              "RelativeDocumentMoniker": "StudentManager\\EditAttendanceForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\EditAttendanceForm.cs",
+              "RelativeToolTip": "StudentManager\\EditAttendanceForm.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAIA6wDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:45:36.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditAttendanceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\EditAttendanceForm.cs",
+              "RelativeDocumentMoniker": "StudentManager\\EditAttendanceForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\EditAttendanceForm.cs [Design]",
+              "RelativeToolTip": "StudentManager\\EditAttendanceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:45:35.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddGradeForm.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\AddGradeForm.cs",
+              "RelativeDocumentMoniker": "StudentManager\\AddGradeForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\AddGradeForm.cs",
+              "RelativeToolTip": "StudentManager\\AddGradeForm.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAWwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:45:03.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddGradeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\AddGradeForm.cs",
+              "RelativeDocumentMoniker": "StudentManager\\AddGradeForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\AddGradeForm.cs [Design]",
+              "RelativeToolTip": "StudentManager\\AddGradeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:45:02.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddAttendance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\AddAttendance.cs",
+              "RelativeDocumentMoniker": "StudentManager\\AddAttendance.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\AddAttendance.cs [Design]",
+              "RelativeToolTip": "StudentManager\\AddAttendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:44:54.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\Form1.cs [Design]",
+              "RelativeToolTip": "StudentManager\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:18:52.952Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\Form1.cs",
+              "RelativeToolTip": "StudentManager\\Form1.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAIwNsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:02:53.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 50,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditGradesForm.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\EditGradesForm.cs",
+              "RelativeDocumentMoniker": "StudentManager\\EditGradesForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\StudentManager\\StudentManager\\EditGradesForm.cs",
+              "RelativeToolTip": "StudentManager\\EditGradesForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:46:04.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

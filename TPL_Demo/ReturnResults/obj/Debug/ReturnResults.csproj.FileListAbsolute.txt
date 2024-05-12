@@ -5,3 +5,10 @@ C:\Users\solod\IT\Step\System Programming\TPL_Demo\ReturnResults\bin\Debug\Retur
 C:\Users\solod\IT\Step\System Programming\TPL_Demo\ReturnResults\bin\Debug\ReturnResults.pdb
 C:\Users\solod\IT\Step\System Programming\TPL_Demo\ReturnResults\obj\Debug\ReturnResults.exe
 C:\Users\solod\IT\Step\System Programming\TPL_Demo\ReturnResults\obj\Debug\ReturnResults.pdb
+C:\Users\solod\IT\Step\System-Programming\System-Programming\TPL_Demo\ReturnResults\bin\Debug\ReturnResults.exe.config
+C:\Users\solod\IT\Step\System-Programming\System-Programming\TPL_Demo\ReturnResults\bin\Debug\ReturnResults.exe
+C:\Users\solod\IT\Step\System-Programming\System-Programming\TPL_Demo\ReturnResults\bin\Debug\ReturnResults.pdb
+C:\Users\solod\IT\Step\System-Programming\System-Programming\TPL_Demo\ReturnResults\obj\Debug\ReturnResults.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System-Programming\System-Programming\TPL_Demo\ReturnResults\obj\Debug\ReturnResults.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System-Programming\System-Programming\TPL_Demo\ReturnResults\obj\Debug\ReturnResults.exe
+C:\Users\solod\IT\Step\System-Programming\System-Programming\TPL_Demo\ReturnResults\obj\Debug\ReturnResults.pdb

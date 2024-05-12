@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\System Programming\\AsyncMethods\\",
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\AsyncMethods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87B3F070-15D3-432D-B49B-29B9B2D68A3E}|AsyncMethods\\AsyncMethods.csproj|c:\\users\\solod\\it\\step\\system programming\\asyncmethods\\asyncmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87B3F070-15D3-432D-B49B-29B9B2D68A3E}|AsyncMethods\\AsyncMethods.csproj|c:\\users\\solod\\it\\step\\system-programming\\system-programming\\asyncmethods\\asyncmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87B3F070-15D3-432D-B49B-29B9B2D68A3E}|AsyncMethods\\AsyncMethods.csproj|solutionrelative:asyncmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\AsyncMethods\\AsyncMethods\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\AsyncMethods\\AsyncMethods\\Program.cs",
               "RelativeDocumentMoniker": "AsyncMethods\\Program.cs",
-              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\AsyncMethods\\AsyncMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\AsyncMethods\\AsyncMethods\\Program.cs",
               "RelativeToolTip": "AsyncMethods\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T16:52:50.402Z",
               "EditorCaption": ""

@@ -4,3 +4,9 @@ C:\Users\Anastasiia\Desktop\PrallelDemo\CalcLib\obj\Debug\CalcLib.csproj.Assembl
 C:\Users\Anastasiia\Desktop\PrallelDemo\CalcLib\obj\Debug\CalcLib.csproj.CoreCompileInputs.cache
 C:\Users\Anastasiia\Desktop\PrallelDemo\CalcLib\obj\Debug\CalcLib.dll
 C:\Users\Anastasiia\Desktop\PrallelDemo\CalcLib\obj\Debug\CalcLib.pdb
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\CalcLib\bin\Debug\CalcLib.dll
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\CalcLib\bin\Debug\CalcLib.pdb
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\CalcLib\obj\Debug\CalcLib.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\CalcLib\obj\Debug\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\CalcLib\obj\Debug\CalcLib.dll
+C:\Users\solod\IT\Step\System-Programming\System-Programming\PrallelDemo\PrallelDemo\CalcLib\obj\Debug\CalcLib.pdb

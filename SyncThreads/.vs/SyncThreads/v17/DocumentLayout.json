@@ -1,21 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\System Programming\\SyncThreads\\",
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF2E8909-83D6-434D-A9D3-627BA8476891}|BankingDemo\\BankingDemo.csproj|c:\\users\\solod\\it\\step\\system programming\\syncthreads\\bankingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF2E8909-83D6-434D-A9D3-627BA8476891}|BankingDemo\\BankingDemo.csproj|solutionrelative:bankingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5476A371-87B2-4D7C-8500-FB9B08B34564}|GoodBadSync\\GoodBadSync.csproj|c:\\users\\solod\\it\\step\\system-programming\\system-programming\\syncthreads\\goodbadsync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5476A371-87B2-4D7C-8500-FB9B08B34564}|GoodBadSync\\GoodBadSync.csproj|solutionrelative:goodbadsync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF2E8909-83D6-434D-A9D3-627BA8476891}|BankingDemo\\BankingDemo.csproj|c:\\users\\solod\\it\\step\\system programming\\syncthreads\\bankingdemo\\monitorcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5736A645-9214-46BC-ACCC-2209F9E89879}|ThreadPoolDemo\\ThreadPoolDemo.csproj|c:\\users\\solod\\it\\step\\system-programming\\system-programming\\syncthreads\\threadpooldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5736A645-9214-46BC-ACCC-2209F9E89879}|ThreadPoolDemo\\ThreadPoolDemo.csproj|solutionrelative:threadpooldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168817D5-5BB6-47C1-993C-41ED5B428CDD}|SyncProblem\\SyncProblem.csproj|c:\\users\\solod\\it\\step\\system-programming\\system-programming\\syncthreads\\syncproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168817D5-5BB6-47C1-993C-41ED5B428CDD}|SyncProblem\\SyncProblem.csproj|solutionrelative:syncproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BFD9BC-9E6B-45F5-A21F-07105FDC7345}|MutexSync\\MutexSync.csproj|c:\\users\\solod\\it\\step\\system-programming\\system-programming\\syncthreads\\mutexsync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BFD9BC-9E6B-45F5-A21F-07105FDC7345}|MutexSync\\MutexSync.csproj|solutionrelative:mutexsync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BFD9BC-9E6B-45F5-A21F-07105FDC7345}|MutexSync\\MutexSync.csproj|c:\\users\\solod\\it\\step\\system-programming\\system-programming\\syncthreads\\mutexsync\\mutexcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BFD9BC-9E6B-45F5-A21F-07105FDC7345}|MutexSync\\MutexSync.csproj|solutionrelative:mutexsync\\mutexcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5476A371-87B2-4D7C-8500-FB9B08B34564}|GoodBadSync\\GoodBadSync.csproj|c:\\users\\solod\\it\\step\\system-programming\\system-programming\\syncthreads\\goodbadsync\\services\\lockcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5476A371-87B2-4D7C-8500-FB9B08B34564}|GoodBadSync\\GoodBadSync.csproj|solutionrelative:goodbadsync\\services\\lockcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5476A371-87B2-4D7C-8500-FB9B08B34564}|GoodBadSync\\GoodBadSync.csproj|c:\\users\\solod\\it\\step\\system-programming\\system-programming\\syncthreads\\goodbadsync\\services\\interlockedcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5476A371-87B2-4D7C-8500-FB9B08B34564}|GoodBadSync\\GoodBadSync.csproj|solutionrelative:goodbadsync\\services\\interlockedcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5476A371-87B2-4D7C-8500-FB9B08B34564}|GoodBadSync\\GoodBadSync.csproj|c:\\users\\solod\\it\\step\\system-programming\\system-programming\\syncthreads\\goodbadsync\\services\\monitorcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5476A371-87B2-4D7C-8500-FB9B08B34564}|GoodBadSync\\GoodBadSync.csproj|solutionrelative:goodbadsync\\services\\monitorcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2E8909-83D6-434D-A9D3-627BA8476891}|BankingDemo\\BankingDemo.csproj|C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\bankingdemo\\monitorcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF2E8909-83D6-434D-A9D3-627BA8476891}|BankingDemo\\BankingDemo.csproj|solutionrelative:bankingdemo\\monitorcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF2E8909-83D6-434D-A9D3-627BA8476891}|BankingDemo\\BankingDemo.csproj|c:\\users\\solod\\it\\step\\system programming\\syncthreads\\bankingdemo\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF2E8909-83D6-434D-A9D3-627BA8476891}|BankingDemo\\BankingDemo.csproj|c:\\users\\solod\\it\\step\\system-programming\\system-programming\\syncthreads\\bankingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2E8909-83D6-434D-A9D3-627BA8476891}|BankingDemo\\BankingDemo.csproj|solutionrelative:bankingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2E8909-83D6-434D-A9D3-627BA8476891}|BankingDemo\\BankingDemo.csproj|C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\bankingdemo\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF2E8909-83D6-434D-A9D3-627BA8476891}|BankingDemo\\BankingDemo.csproj|solutionrelative:bankingdemo\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF2E8909-83D6-434D-A9D3-627BA8476891}|BankingDemo\\BankingDemo.csproj|c:\\users\\solod\\it\\step\\system programming\\syncthreads\\bankingdemo\\unsynchronizedcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF2E8909-83D6-434D-A9D3-627BA8476891}|BankingDemo\\BankingDemo.csproj|C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\bankingdemo\\unsynchronizedcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF2E8909-83D6-434D-A9D3-627BA8476891}|BankingDemo\\BankingDemo.csproj|solutionrelative:bankingdemo\\unsynchronizedcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,28 +58,131 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1442,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnsynchronizedCounter.cs",
-              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SyncThreads\\BankingDemo\\UnsynchronizedCounter.cs",
-              "RelativeDocumentMoniker": "BankingDemo\\UnsynchronizedCounter.cs",
-              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SyncThreads\\BankingDemo\\UnsynchronizedCounter.cs",
-              "RelativeToolTip": "BankingDemo\\UnsynchronizedCounter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\ThreadPoolDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadPoolDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\ThreadPoolDemo\\Program.cs",
+              "RelativeToolTip": "ThreadPoolDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T13:55:55.484Z",
+              "WhenOpened": "2024-05-07T11:51:29.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\SyncProblem\\Program.cs",
+              "RelativeDocumentMoniker": "SyncProblem\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\SyncProblem\\Program.cs",
+              "RelativeToolTip": "SyncProblem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:51:24.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\MutexSync\\Program.cs",
+              "RelativeDocumentMoniker": "MutexSync\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\MutexSync\\Program.cs",
+              "RelativeToolTip": "MutexSync\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:51:10.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MutexCounter.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\MutexSync\\MutexCounter.cs",
+              "RelativeDocumentMoniker": "MutexSync\\MutexCounter.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\MutexSync\\MutexCounter.cs",
+              "RelativeToolTip": "MutexSync\\MutexCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:50:57.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InterlockedCounter.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\GoodBadSync\\Services\\InterlockedCounter.cs",
+              "RelativeDocumentMoniker": "GoodBadSync\\Services\\InterlockedCounter.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\GoodBadSync\\Services\\InterlockedCounter.cs",
+              "RelativeToolTip": "GoodBadSync\\Services\\InterlockedCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:50:25.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MonitorCounter.cs",
-              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SyncThreads\\BankingDemo\\MonitorCounter.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\GoodBadSync\\Services\\MonitorCounter.cs",
+              "RelativeDocumentMoniker": "GoodBadSync\\Services\\MonitorCounter.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\GoodBadSync\\Services\\MonitorCounter.cs",
+              "RelativeToolTip": "GoodBadSync\\Services\\MonitorCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:50:10.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LockCounter.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\GoodBadSync\\Services\\LockCounter.cs",
+              "RelativeDocumentMoniker": "GoodBadSync\\Services\\LockCounter.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\GoodBadSync\\Services\\LockCounter.cs",
+              "RelativeToolTip": "GoodBadSync\\Services\\LockCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:49:55.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\GoodBadSync\\Program.cs",
+              "RelativeDocumentMoniker": "GoodBadSync\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\GoodBadSync\\Program.cs",
+              "RelativeToolTip": "GoodBadSync\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:49:44.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnsynchronizedCounter.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\BankingDemo\\UnsynchronizedCounter.cs",
+              "RelativeDocumentMoniker": "BankingDemo\\UnsynchronizedCounter.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\BankingDemo\\UnsynchronizedCounter.cs",
+              "RelativeToolTip": "BankingDemo\\UnsynchronizedCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:55:55.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonitorCounter.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\BankingDemo\\MonitorCounter.cs",
               "RelativeDocumentMoniker": "BankingDemo\\MonitorCounter.cs",
-              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SyncThreads\\BankingDemo\\MonitorCounter.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\BankingDemo\\MonitorCounter.cs",
               "RelativeToolTip": "BankingDemo\\MonitorCounter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,11 +191,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Counter.cs",
-              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SyncThreads\\BankingDemo\\Counter.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\BankingDemo\\Counter.cs",
               "RelativeDocumentMoniker": "BankingDemo\\Counter.cs",
-              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SyncThreads\\BankingDemo\\Counter.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\BankingDemo\\Counter.cs",
               "RelativeToolTip": "BankingDemo\\Counter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,13 +204,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System Programming\\SyncThreads\\BankingDemo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\BankingDemo\\Program.cs",
               "RelativeDocumentMoniker": "BankingDemo\\Program.cs",
-              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System Programming\\SyncThreads\\BankingDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\System-Programming\\System-Programming\\SyncThreads\\BankingDemo\\Program.cs",
               "RelativeToolTip": "BankingDemo\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAjAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T13:50:11.595Z",
               "EditorCaption": ""

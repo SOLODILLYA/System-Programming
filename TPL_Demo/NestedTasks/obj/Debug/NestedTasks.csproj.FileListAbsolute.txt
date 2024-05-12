@@ -5,3 +5,10 @@ C:\Users\solod\IT\Step\System Programming\TPL_Demo\NestedTasks\obj\Debug\NestedT
 C:\Users\solod\IT\Step\System Programming\TPL_Demo\NestedTasks\obj\Debug\NestedTasks.csproj.CoreCompileInputs.cache
 C:\Users\solod\IT\Step\System Programming\TPL_Demo\NestedTasks\obj\Debug\NestedTasks.exe
 C:\Users\solod\IT\Step\System Programming\TPL_Demo\NestedTasks\obj\Debug\NestedTasks.pdb
+C:\Users\solod\IT\Step\System-Programming\System-Programming\TPL_Demo\NestedTasks\bin\Debug\NestedTasks.exe.config
+C:\Users\solod\IT\Step\System-Programming\System-Programming\TPL_Demo\NestedTasks\bin\Debug\NestedTasks.exe
+C:\Users\solod\IT\Step\System-Programming\System-Programming\TPL_Demo\NestedTasks\bin\Debug\NestedTasks.pdb
+C:\Users\solod\IT\Step\System-Programming\System-Programming\TPL_Demo\NestedTasks\obj\Debug\NestedTasks.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\System-Programming\System-Programming\TPL_Demo\NestedTasks\obj\Debug\NestedTasks.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\System-Programming\System-Programming\TPL_Demo\NestedTasks\obj\Debug\NestedTasks.exe
+C:\Users\solod\IT\Step\System-Programming\System-Programming\TPL_Demo\NestedTasks\obj\Debug\NestedTasks.pdb
